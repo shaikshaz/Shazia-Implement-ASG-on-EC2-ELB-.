@@ -36,5 +36,5 @@ Continuously monitor and analyse the performance and costs of your auto-scaling 
 Adjust Auto Scaling policies, instance types, and other configurations as needed to optimize the environment.
 
 DNS  -shaz-LB-964136400.eu-west-2.elb.amazonaws.com
-![image](https://github.com/shaikshaz/Shazia-Implement-ASG-on-EC2-ELB-./assets/154241222/7ba5ae0c-a4f9-4286-be91-ae02fe1eb705)
+![image](https://github.com/shaikshaz/Shazia-Implement-ASG-on-EC2-ELB-./assets/154241222/c253c3b7-a9fb-42be-ae19-fe475f07c45a)
 
